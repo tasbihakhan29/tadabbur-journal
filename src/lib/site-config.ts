@@ -10,7 +10,7 @@ export const siteConfig = {
   url: "https://tadabbur-journal.vercel.app",
   author: {
     name: "Tasbiha Khan",
-    role: "Software Engineer",
+    role: "Software Engineering Student",
     signature: "Tasbiha Khan",
   },
   nav: [
